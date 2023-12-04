@@ -1,37 +1,22 @@
 # Doug Lazarini
 
 ## About Me
-I grew up in the countryside of São Paulo state, in a valley near the mountains and the ocean, a rich place with nature and culture like art, music, and people's simple traditions. Living there turns me passionate about art and people, mixing that with my love for technology, which results in what I’m today. Since 2009 I had been working with visual and interaction design on agencies and digital products.
+Hello, I'm Doug, based in Campinas, Brazil, near São Paulo. Since embarking on my web design journey in 2010, I've transitioned into a Product Designer role, honing my skills in design systems.
 
-In the last few years, I have been working with educational and entrepreneurship products, that I had the incredible experience and challenge to impact thousands of people in Brazil, working hard to deliver a great user experience.
+I've had the privilege of working with product design and design systems in some of Brazil's leading startups, including Quero Bolsa, an educational marketplace empowering individuals to pursue college and university education; MLabs, a platform designed to streamline social media operations for small businesses and agencies; and Meiuca, a consulting firm recognized as one of the best in Design System, aiding tech giants in the field.
 
-To know more, just reach me!
+Currently, I'm part of the design system team at BEES and AB-Inbev. The team is responsible for building, maintaining, and evolving the Hexa design system; it also ensures consistency and coherence in the design across different products and platforms by setting design principles and standards. We create and update components and patterns, document usage guidelines, and work closely with other designers and developers to implement the design system effectively. Ultimately, we educate other team members about the system, gather feedback, and make necessary improvements to adapt to the changing needs of the users and the organization.
 
-I'm a Product Designer at [Meiuca](https://meiuca.design/). Former at mLabs and Quero Bolsa.
+It’s an exciting challenge, and I’m happy to be part of the team. 
 
 ## Skills & Portfolio
 ### My Skills:
+- Design System
 - UX & Product Design 
 - Front-End Development
-- Communication and leadership
+- Design leadership
 
 ### Porfolio: https://www.douglaslazarini.com.br
-
-## My interests 
-* First at all I like to help people thru the design and impact those people lifes;
-* Learn about collaborative work, as open source projects to apply to project and product co-creation;
-* Work in a global iniciative with diverse team;
-
-## Learning & Collaboration
-### Learning
-- Interactive Design
-- Open Source and Open Design
-- Improving Language Skills (English)
-
-### Collaborating
-- Educational iniciatives
-- Design iniciatives
-
 
 ## Reach me
 GitHub: @douglazarini
